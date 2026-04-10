@@ -1,6 +1,6 @@
 macro 'AIRE' {
 
- // --- Created on April 3, 2026 by Flavio S. Silva using Fiji (Fiji is just ImageJ), v. 1.54p ---
+ // --- Created on April 7, 2026 by Flavio S. Silva using Fiji (Fiji is just ImageJ), v. 1.54p ---
  
  // "Refer to README.md for instructions; supporting files are located in the repository folders.
 
