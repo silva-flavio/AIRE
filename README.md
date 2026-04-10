@@ -54,6 +54,8 @@ To obtain individual airspace data instead of means for each image, select the l
 | macro/ | `AIRE.ijm` | Fiji/ImageJ macro |
 | images/ | `*.jpg`| Dataset of 89 H&E lung micrographs used for validation |
 | stats/ | `Stats_report.pdf` | Validation tests and raw data tables from GraphPad Prism v. 8.0.2 |
+| (root) | `LICENSE` | Terms for software and data use |
+| (root) |`README.md` | AIRE usage instructions |
 
 ---
 
