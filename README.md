@@ -57,6 +57,14 @@ To obtain individual airspace data instead of means for each image, select the l
 | (root) | `LICENSE` | Terms for software and data use |
 | (root) |`README.md` | AIRE usage instructions |
 
+> **📂 Opening CSV files:** The data files use comma (`,`) as the delimiter. 
+> If the data appears in a single column when opened in Excel, follow these steps:
+> 1. Select the column containing the data
+> 2. Go to **Data → Text to Columns**
+> 3. Select **Delimited** and click **Next**
+> 4. Check **Comma** as the delimiter and click **Next**
+> 5. Click **Finish**
+
 ---
 
 ## License
