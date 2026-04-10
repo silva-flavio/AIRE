@@ -51,8 +51,8 @@ To obtain individual airspace data instead of means for each image, select the l
 |       | `Lm_data_examiner 2.csv` | Manual Lm measurements by Expert Examiner 2 |
 |       | `Lm_data_examiner 3.csv` | Manual Lm measurements by Expert Examiner 3 |
 |       | `AIRE_and_Lm_data.csv` | AIRE output & averaged Lm measurements |
-| macro/ | `AIRE.ijm` | Fiji/ImageJ macro |
 | images/ | `*.jpg`| Dataset of 89 H&E lung micrographs used for validation |
+| macro/ | `AIRE.ijm` | Fiji/ImageJ macro |
 | stats/ | `Stats_report.pdf` | Validation tests and raw data tables from GraphPad Prism v. 8.0.2 |
 | (root) | `LICENSE` | Terms for software and data use |
 | (root) |`README.md` | AIRE usage instructions |
