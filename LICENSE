@@ -1,21 +1,26 @@
-MIT License
+Creative Commons Attribution 4.0 International License (CC BY 4.0)
 
 Copyright (c) 2026 silva-flavio
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+You are free to:
+- Use: run and apply AIRE for any purpose, including research and commercial use
+- Share: copy and redistribute AIRE in any medium or format
+- Adapt: modify and build upon AIRE for any purpose
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Under the following terms:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. Attribution: Any use of AIRE, in original or modified form, must give
+   appropriate credit to the original author (silva-flavio), provide a link
+   to this repository, and indicate if changes were made. Credit must be
+   given in any academic publications, presentations, or derivative works
+   resulting from the use of AIRE.
+
+2. Name restriction: The name "AIRE" must not be used to identify other
+   tools, macros, or software designed for histological image analysis of
+   lung tissue, so as to avoid confusion with this original work.
+
+3. No additional restrictions: You may not apply legal terms or technological
+   measures that legally restrict others from doing anything this license
+   permits.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
