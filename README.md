@@ -1,7 +1,7 @@
 # AIRE (Airspace Image-based Reproducible Evaluation)
 A Fiji/ImageJ macro for automated and reproducible airspace morphometry
 
-**Created**: 3 April, 2026 **Last updated**: 9 April, 2026
+**Created**: April 7, 2026 **Last updated**: April 10, 2026
 Author: Flávio Santos da Silva <flavio.santos [at] ufersa.edu.br>
 
 ---
