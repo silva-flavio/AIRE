@@ -70,4 +70,4 @@ To obtain individual airspace data instead of means for each image, select the l
 
 ## License
 
-MIT License — see [LICENSE](LICENSE) for details.
+Creative Commons Attribution 4.0 International License (CC BY 4.0) — see [LICENSE](LICENSE) for details.
