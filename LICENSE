@@ -1,26 +1,24 @@
 Creative Commons Attribution 4.0 International License (CC BY 4.0)
+Copyright (c) 2026 Flávio Santos da Silva
 
-Copyright (c) 2026 silva-flavio
+This license applies to all contents of this repository, including the
+AIRE macro and associated data (e.g., images, raw data tables).
 
 You are free to:
-- Use: run and apply AIRE for any purpose, including research and commercial use
-- Share: copy and redistribute AIRE in any medium or format
-- Adapt: modify and build upon AIRE for any purpose
+- Use, Share, and Adapt any of these materials for any purpose
 
 Under the following terms:
+- Attribution: give appropriate credit to the original author, provide a
+  link to this repository, and indicate if changes were made.
 
-1. Attribution: Any use of AIRE, in original or modified form, must give
-   appropriate credit to the original author (silva-flavio), provide a link
-   to this repository, and indicate if changes were made. Credit must be
-   given in any academic publications, presentations, or derivative works
-   resulting from the use of AIRE.
+## How to Cite
 
-2. Name restriction: The name "AIRE" must not be used to identify other
-   tools, macros, or software designed for histological image analysis of
-   lung tissue, so as to avoid confusion with this original work.
-
-3. No additional restrictions: You may not apply legal terms or technological
-   measures that legally restrict others from doing anything this license
-   permits.
+Silva, F. S. (2026). AIRE: Airspace Image-based Reproducible Evaluation
+for Fiji/ImageJ. Zenodo. https://doi.org/10.5281/zenodo.19581951
 
 Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+---
+Note: Although not a legal restriction, I kindly ask that the name "AIRE"
+not be used to identify other tools or software designed for histological
+airspace analysis, to avoid confusion with this original work.
