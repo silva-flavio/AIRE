@@ -71,3 +71,14 @@ To obtain individual airspace data instead of means for each image, select the l
 ## License
 
 Creative Commons Attribution 4.0 International License (CC BY 4.0) — see [LICENSE](LICENSE) for details.
+
+---
+
+## How to Cite
+
+If you use AIRE in your research, please cite:
+
+Silva, F. S. (2026). AIRE: Airspace Image-based Reproducible Evaluation
+for Fiji/ImageJ. Zenodo. https://doi.org/10.5281/zenodo.19581951
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19581951.svg)](https://doi.org/10.5281/zenodo.19581951)
