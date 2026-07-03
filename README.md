@@ -35,7 +35,7 @@ AIRE is structured in 12 code blocks: 1–4 specify requirements (ImageJ version
 5–9 constitute the core of the macro (i.e., the image processing and analysis); 
 10–12 compute descriptive results for batch processing.
 
-To analyze multiple images automatically, copy/paste the full code (lines 1 to 92) in the batch macro window (Process > Batch > Macro...), select the input folder and press "Process".
+To analyze multiple images automatically, copy/paste the full code (lines 1 to 91) in the batch macro window (Process > Batch > Macro...), select the input folder and press "Process".
 
 To run AIRE step by step and supervise the image processing, open one image at a time (File > Open), select the intended code line(s)/block(s) and press Ctrl + R on the keyboard (Ctrl + Shift + R for Fiji users). 
 
