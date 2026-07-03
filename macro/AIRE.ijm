@@ -55,7 +55,6 @@ macro 'AIRE' {
 
  // 9) Measures individual airspace areas, closes all images, and
  // defines an end point to compute image processing time (s):
- Defines an end point to compute image processing time in seconds:
  run("Set Measurements...", "area display redirect=None decimal=3");
  run("Analyze Particles...", "size=270-Infinity circularity=0.30-1.00 display clear");
  run("Close All");
